@@ -1,0 +1,21 @@
+.work {
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 80px;
+}
+
+.work-title {
+    font-size: min(calc(12px + 2vw), 64px);
+    margin-bottom: 20px;
+}
+
+.work-jobs {
+    width: 90%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+}

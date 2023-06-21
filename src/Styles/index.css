@@ -1,0 +1,31 @@
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Ubuntu'), url(../assets/fonts/Ubuntu/Ubuntu-Regular.ttf) format('woff');
+}
+
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Ubuntu'), url(../assets/fonts/Ubuntu/Ubuntu-Italic.ttf) format('woff');
+}
+
+@font-face {
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: bold;
+  src: local('Ubuntu'), url(../assets/fonts/Ubuntu/Ubuntu-Bold.ttf) format('woff');
+}
+
+body {
+  margin: 0;
+  font-family: Ubuntu, "Lucida Console", "Courier New", monospace;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  width: 100vw;
+  max-width: 2500px;
+  min-width: 350px;
+  background-color: white;
+}

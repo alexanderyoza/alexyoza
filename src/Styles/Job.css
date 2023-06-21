@@ -1,0 +1,37 @@
+.job-cont {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.job {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+}
+
+.job img {
+    width: 20vw;
+}
+
+.job-info {
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+.job-info h1{
+    font-weight: normal;
+    font-size: min(calc(8px + 2vw), 24px);
+}
+
+.job-info div{
+    font-size: min(calc(8px + 1vw), 16px);
+    margin-bottom: 5px;
+}
