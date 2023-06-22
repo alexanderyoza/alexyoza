@@ -1,18 +1,14 @@
 .work {
     width: 100%;
-    height: auto;
+    min-height: 100vh;
     display: flex;
+    justify-items: flex-end;
     align-items: center;
     flex-direction: column;
-    margin-bottom: 80px;
-}
-
-.work-title {
-    font-size: min(calc(12px + 2vw), 64px);
-    margin-bottom: 20px;
 }
 
 .work-jobs {
+    margin-top: calc(10vh + 30px);
     width: 90%;
     display: flex;
     justify-content: space-evenly;

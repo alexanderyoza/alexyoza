@@ -1,6 +1,8 @@
 import { useEffect, useState } from 'react';
 import '../Styles/About.css';
 import sunset from '../assets/sunset.jpeg';
+import Menu from './Menu';
+import Footer from './Footer';
 
 function About() {
   const [isMobile, setIsMobile] = useState(false);
@@ -10,7 +12,9 @@ function About() {
       const narrow = window.innerWidth <= 600;
       setIsMobile(narrow);
     };
-
+    
+    window.scrollTo(0, 0);
+    checkMobile();
     window.addEventListener('resize', checkMobile);
     return () => {
       window.removeEventListener('resize', checkMobile);
@@ -20,6 +24,7 @@ function About() {
 
   return (
     <div id='about-cont'>
+      <Menu scroll={true} active='about'/>
       <div className='about-inner-cont'>
         <div className={isMobile ? 'mobile-alex' : 'alex'}>
           <div>
@@ -43,7 +48,7 @@ function About() {
           </div>
         </div>
       </div>
-
+      <Footer active='about'/>
     </div>
     
   )

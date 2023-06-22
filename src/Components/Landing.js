@@ -8,7 +8,7 @@ function Landing() {
       <video autoPlay muted playsInline loop src={video}></video>
       <div className='landing-down'>
         <div>
-          welcome to my page!
+          check out my projects
         </div>
         <img src={back} alt='down-arrow' className='bounce' />
       </div>

@@ -1,0 +1,61 @@
+.footer-cont {
+    width: 100vw;
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #E3FFFF;
+}
+
+.footer {
+    width: 90%;
+    height: 50%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.foot-nav {
+    height: 100%;
+    width: 40%;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+.foot-nav .active {
+    text-decoration: underline #ff9100;
+}
+
+.foot-nav .link {
+    text-decoration: underline black;
+    transition: 0.3s;
+}
+
+.foot-nav .link:hover {
+    text-decoration: underline #00f5f5;
+}
+
+
+.foot-nav div {
+    color: black;
+}
+
+.foot-contact {
+    height: 100%;
+    width: 40%;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    flex-direction: column;
+}
+
+.foot-contact a {
+    color: black;
+    transition: 0.3s;
+}
+
+.foot-contact a:hover {
+    text-decoration: underline #00f5f5;
+}
