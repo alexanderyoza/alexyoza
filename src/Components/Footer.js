@@ -8,12 +8,10 @@ function Footer(props) {
                 <div className='foot-nav'>
                     <Link className={ props.active === 'projects' ? 'active' : 'link'} to='/'><div>projects</div></Link>
                     <Link className={ props.active === 'about' ? 'active' : 'link'} to='/about'><div>about</div></Link>
-                    <Link className={ props.active === 'work' ? 'active' : 'link'} to='/work'><div>work</div></Link>
+                    <Link className={ props.active === 'contact' ? 'active' : 'link'} to='/contact'><div>contact</div></Link>
                 </div>
-                <div className='foot-contact'>
-                    <a href='mailto:alex.yoza@outlook.com'>alex.yoza@outlook.com</a>
-                    <a href='sms:+16233992062'>(623)399-2062</a>
-                    <div></div>
+                <div className='copyright'>
+                    © 2023 AGYLLC. All Rights Reserved.
                 </div>
             </div>
         </div>

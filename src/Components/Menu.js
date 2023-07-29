@@ -15,7 +15,7 @@ function Menu(props) {
         <div className='menu-nav'>
           <Link className={ props.active === 'projects' ? 'active' : 'link'} to='/'><div className='link-name'>projects</div></Link>
           <Link className={ props.active === 'about' ? 'active' : 'link'} to='/about'><div className='link-name'>about</div></Link>
-          <Link className={ props.active === 'work' ? 'active' : 'link'} to='/work'><div className='link-name'>work</div></Link>
+          <Link className={ props.active === 'work' ? 'active' : 'link'} to='/contact'><div className='link-name'>contact</div></Link>
         </div>
 
         <div className='menu-links'>

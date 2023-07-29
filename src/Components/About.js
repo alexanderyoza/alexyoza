@@ -44,7 +44,7 @@ function About() {
             <h1>education</h1>
             <div>University of California San Diego</div>
             <div>BS Computer Science</div>
-            <div>2021-2025 (expected)</div>
+            <div>2021-2024 (expected)</div>
           </div>
         </div>
       </div>
