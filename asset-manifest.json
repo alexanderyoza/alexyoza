@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/alexyoza/static/css/main.9b76a64b.css",
+    "main.js": "/alexyoza/static/js/main.6887a292.js",
+    "static/media/gsfllc.png": "/alexyoza/static/media/gsfllc.3c73773f8d0c670a50a2.png",
+    "static/media/backgroundVideo.mov": "/alexyoza/static/media/backgroundVideo.3b0001f366563dfbf02e.mov",
+    "static/media/uhfd.png": "/alexyoza/static/media/uhfd.4be1537143c188303a1c.png",
+    "static/media/Ubuntu-Italic.ttf": "/alexyoza/static/media/Ubuntu-Italic.fbb3310412795b02afc4.ttf",
+    "static/media/Ubuntu-Regular.ttf": "/alexyoza/static/media/Ubuntu-Regular.1cbb1b79a23478cc89ad.ttf",
+    "static/media/Ubuntu-Bold.ttf": "/alexyoza/static/media/Ubuntu-Bold.fec2d0f1431a6114a6ce.ttf",
+    "static/media/sunset.jpeg": "/alexyoza/static/media/sunset.0897697ae243455c1e18.jpeg",
+    "static/media/back.png": "/alexyoza/static/media/back.63767faeee2e931665c1.png",
+    "static/media/github.png": "/alexyoza/static/media/github.cd6fbc314462a38570a8.png",
+    "static/media/linkedin.png": "/alexyoza/static/media/linkedin.bed367be876f5d8d5254.png",
+    "index.html": "/alexyoza/index.html",
+    "main.9b76a64b.css.map": "/alexyoza/static/css/main.9b76a64b.css.map",
+    "main.6887a292.js.map": "/alexyoza/static/js/main.6887a292.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b76a64b.css",
+    "static/js/main.6887a292.js"
+  ]
+}
