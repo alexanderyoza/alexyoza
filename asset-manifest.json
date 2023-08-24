@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/alexyoza/static/css/main.3019b1d2.css",
-    "main.js": "/alexyoza/static/js/main.2d1f6877.js",
+    "main.js": "/alexyoza/static/js/main.c548fa2c.js",
     "static/media/gsfllc.png": "/alexyoza/static/media/gsfllc.ad996261d834870c8690.png",
     "static/media/uhfd.png": "/alexyoza/static/media/uhfd.e549182d43f3199e2cfb.png",
     "static/media/spain-girona.jpg": "/alexyoza/static/media/spain-girona.f60dcec8611c46a5487b.jpg",
@@ -25,10 +25,10 @@
     "static/media/linkedin.png": "/alexyoza/static/media/linkedin.bed367be876f5d8d5254.png",
     "index.html": "/alexyoza/index.html",
     "main.3019b1d2.css.map": "/alexyoza/static/css/main.3019b1d2.css.map",
-    "main.2d1f6877.js.map": "/alexyoza/static/js/main.2d1f6877.js.map"
+    "main.c548fa2c.js.map": "/alexyoza/static/js/main.c548fa2c.js.map"
   },
   "entrypoints": [
     "static/css/main.3019b1d2.css",
-    "static/js/main.2d1f6877.js"
+    "static/js/main.c548fa2c.js"
   ]
 }
