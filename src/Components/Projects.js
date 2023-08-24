@@ -8,11 +8,11 @@ function Projects() {
       <div className='projects-list'>
         <div className='projects-item'>
           <div className='item-name'>Union Hills Family Dentistry</div>
-          <div className='item-image'><img src={uhfd} alt='project' /></div>
+          <a href='https://alexanderyoza.github.io/union-hills-family-dentistry/' target='_blank' rel='noreferrer' className='item-image'><img src={uhfd} alt='project' /></a>
         </div>
         <div className='projects-item'>
           <div className='item-name'>GSF LLC</div>
-          <div className='item-image'><img src={gsfllc} alt='project' /></div>
+          <a href='http://gsfhi.com/' target='_blank' rel='noreferrer' className='item-image'><img src={gsfllc} alt='project' /></a>
         </div>
       </div>
     </div>

@@ -1,4 +1,3 @@
-import { useState } from 'react';
 import '../Styles/Menu.css';
 import github from '../assets/github.png';
 import linkedin from '../assets/linkedin.png';

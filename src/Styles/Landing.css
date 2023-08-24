@@ -5,27 +5,49 @@
     justify-content: flex-end;
     align-items: center;
     flex-direction: column;
-    background-color: transparent;
-    background-color: rgba(0, 0, 0, 0.2);
+    background-color: rgba(0, 0, 0, 0.4);
+    font-size: max(32px, min(128px, 3vw));
 }
 
-#landing video {
+#landing .landing-background {
     position: absolute;
     top: 0;
-    object-fit: cover;
     width: 100%;
     height: 100%;
     z-index: -1;
+    background-color: black;
+}
+
+#landing .landing-background img {
+    object-fit: cover;
+    object-position: center;
+    width: 100%;
+    height: 100%;
+    opacity: 1;
+}
+
+.landing-hook {
+    height: 70%;
+    width: 90%;
+    max-width: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 1.2em;
+    color: white;
 }
 
 .landing-down {
-    height: 15%;
+    max-height: 100px;
+    height: 10%;
     margin-bottom: 20px;
     display: flex;
     justify-content: space-between;
     align-items: center;
     flex-direction: column;
     color: white;
+    font-size: 1em;
 }
 
 .landing-down div {
@@ -33,21 +55,21 @@
 }
 
 .landing-down img {
-    height: 20%;
+    height: 30%;
     opacity: 0.5;
 }
  
- @-webkit-keyframes bounce { 
+@-webkit-keyframes bounce { 
     0%, 100% {-webkit-transform: translateY(0);}  
     50% {-webkit-transform: translateY(-15px);} 
- } 
- 
- @keyframes bounce { 
+} 
+
+@keyframes bounce { 
     0%, 100% {transform: translateY(0);} 
     50% {transform: translateY(-15px);} 
- }
- 
- .bounce { 
+}
+
+.bounce { 
     animation-iteration-count: infinite;
     -webkit-animation-name: bounce; 
     animation-name: bounce; 
@@ -55,4 +77,4 @@
     animation-duration: 1s; 
     -webkit-animation-fill-mode: both; 
     animation-fill-mode: both; 
- }
+}

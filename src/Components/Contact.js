@@ -20,8 +20,8 @@ function Contact() {
                         Contact Me
                     </div>
                     <div className='contact-links'>
-                        <a href='mailto:alex.yoza@gmail.com'　target='_blank' rel='noopener noreferrer'>alex.yoza@gmail.com</a>
-                        <a href='tel:6233992062'　target='_blank' rel='noopener noreferrer'>(623)399-2062</a>
+                        <a href='mailto:alex.yoza@gmail.com'>alex.yoza@gmail.com</a>
+                        <a href='tel:6233992062'>(623)399-2062</a>
                         <a href='https://www.linkedin.com/in/alex-yoza/' target='_blank' rel='noopener noreferrer'>LinkedIn</a>
                     </div>
                 </div>

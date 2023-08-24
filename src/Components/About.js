@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import '../Styles/About.css';
-import sunset from '../assets/sunset.jpeg';
+import profile from '../assets/profile.jpg';
+import ucsd from '../assets/ucsd.png';
 import Menu from './Menu';
 import Footer from './Footer';
 
@@ -33,13 +34,13 @@ function About() {
             <div>raised in Phoenix, Arizona</div>
             <div>attending school in San Diego, California</div>
           </div>
-          <img src={sunset} alt='alex' />
+          <img src={profile} alt='alex' />
         </div>
       </div>
 
       <div className='about-inner-cont'>
         <div className={isMobile ? 'mobile-school' : 'school'}>
-          <img src={sunset} alt='school' />
+          <img src={ucsd} alt='school' />
           <div>
             <h1>education</h1>
             <div>University of California San Diego</div>
