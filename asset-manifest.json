@@ -1,23 +1,34 @@
 {
   "files": {
-    "main.css": "/alexyoza/static/css/main.9b76a64b.css",
-    "main.js": "/alexyoza/static/js/main.6887a292.js",
-    "static/media/gsfllc.png": "/alexyoza/static/media/gsfllc.3c73773f8d0c670a50a2.png",
-    "static/media/backgroundVideo.mov": "/alexyoza/static/media/backgroundVideo.3b0001f366563dfbf02e.mov",
-    "static/media/uhfd.png": "/alexyoza/static/media/uhfd.4be1537143c188303a1c.png",
+    "main.css": "/alexyoza/static/css/main.3019b1d2.css",
+    "main.js": "/alexyoza/static/js/main.2d1f6877.js",
+    "static/media/gsfllc.png": "/alexyoza/static/media/gsfllc.ad996261d834870c8690.png",
+    "static/media/uhfd.png": "/alexyoza/static/media/uhfd.e549182d43f3199e2cfb.png",
+    "static/media/spain-girona.jpg": "/alexyoza/static/media/spain-girona.f60dcec8611c46a5487b.jpg",
+    "static/media/sydney-opera-house.jpg": "/alexyoza/static/media/sydney-opera-house.4864fb2e97d60f0b582e.jpg",
+    "static/media/sedona.jpg": "/alexyoza/static/media/sedona.38db5098294aa6216ca9.jpg",
+    "static/media/camp-nou.jpg": "/alexyoza/static/media/camp-nou.41abd2e913787bd4c69b.jpg",
+    "static/media/korea.jpg": "/alexyoza/static/media/korea.3d98ab014d80f84ca2f9.jpg",
+    "static/media/sunflowers.jpg": "/alexyoza/static/media/sunflowers.e044c77d7ac059c5bd65.jpg",
+    "static/media/mammoth-hike.jpg": "/alexyoza/static/media/mammoth-hike.87af6cdb97ed6d33ec0e.jpg",
+    "static/media/spain-gracia.jpg": "/alexyoza/static/media/spain-gracia.6adaf5e26ae596557884.jpg",
+    "static/media/rochester-sunset.jpg": "/alexyoza/static/media/rochester-sunset.aa1a3aa9a0a187672f67.jpg",
+    "static/media/mammoth-spring.jpg": "/alexyoza/static/media/mammoth-spring.eaba376551d86440caca.jpg",
+    "static/media/profile.jpg": "/alexyoza/static/media/profile.d447d7905a7a9c1ffa00.jpg",
+    "static/media/ala-moana.jpg": "/alexyoza/static/media/ala-moana.d53e96b11c7f7afd7705.jpg",
     "static/media/Ubuntu-Italic.ttf": "/alexyoza/static/media/Ubuntu-Italic.fbb3310412795b02afc4.ttf",
     "static/media/Ubuntu-Regular.ttf": "/alexyoza/static/media/Ubuntu-Regular.1cbb1b79a23478cc89ad.ttf",
     "static/media/Ubuntu-Bold.ttf": "/alexyoza/static/media/Ubuntu-Bold.fec2d0f1431a6114a6ce.ttf",
-    "static/media/sunset.jpeg": "/alexyoza/static/media/sunset.0897697ae243455c1e18.jpeg",
-    "static/media/back.png": "/alexyoza/static/media/back.63767faeee2e931665c1.png",
+    "static/media/ucsd.png": "/alexyoza/static/media/ucsd.a1a9115baab13ba0d701.png",
+    "static/media/back.png": "/alexyoza/static/media/back.2c10e005175d433c5ade.png",
     "static/media/github.png": "/alexyoza/static/media/github.cd6fbc314462a38570a8.png",
     "static/media/linkedin.png": "/alexyoza/static/media/linkedin.bed367be876f5d8d5254.png",
     "index.html": "/alexyoza/index.html",
-    "main.9b76a64b.css.map": "/alexyoza/static/css/main.9b76a64b.css.map",
-    "main.6887a292.js.map": "/alexyoza/static/js/main.6887a292.js.map"
+    "main.3019b1d2.css.map": "/alexyoza/static/css/main.3019b1d2.css.map",
+    "main.2d1f6877.js.map": "/alexyoza/static/js/main.2d1f6877.js.map"
   },
   "entrypoints": [
-    "static/css/main.9b76a64b.css",
-    "static/js/main.6887a292.js"
+    "static/css/main.3019b1d2.css",
+    "static/js/main.2d1f6877.js"
   ]
 }
