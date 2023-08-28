@@ -8,7 +8,7 @@ function Projects() {
       <div className='projects-list'>
         <div className='projects-item'>
           <div className='item-name'>Union Hills Family Dentistry</div>
-          <a href='https://alexanderyoza.github.io/union-hills-family-dentistry/' target='_blank' rel='noreferrer' className='item-image'><img src={uhfd} alt='project' /></a>
+          <a href='https://unionhillsfamilydentistry.com/' target='_blank' rel='noreferrer' className='item-image'><img src={uhfd} alt='project' /></a>
         </div>
         <div className='projects-item'>
           <div className='item-name'>GSF LLC</div>

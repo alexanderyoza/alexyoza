@@ -2,7 +2,6 @@ import '../Styles/Landing.css';
 import back from '../assets/back.png';
 import { useState, useEffect } from 'react';
 import alamoana from '../assets/background/ala-moana.jpg';
-import campnou from '../assets/background/camp-nou.jpg';
 import korea from '../assets/background/korea.jpg';
 import mammothhike from '../assets/background/mammoth-hike.jpg';
 import mammothspring from '../assets/background/mammoth-spring.jpg';
@@ -18,7 +17,6 @@ function Landing() {
         mammothhike,
         sunflowers,
         alamoana,
-        campnou,
         korea,
         mammothspring,
         rochestersunset,
