@@ -10,7 +10,6 @@ import sedona from '../assets/background/sedona.jpg';
 import spaingirona from '../assets/background/spain-girona.jpg';
 import spaingracia from '../assets/background/spain-gracia.jpg';
 import sunflowers from '../assets/background/sunflowers.jpg';
-import sydneyopera from '../assets/background/sydney-opera-house.jpg';
 
 function Landing() {
     const images = [
@@ -23,7 +22,6 @@ function Landing() {
         sedona,
         spaingirona,
         spaingracia,
-        sydneyopera
     ];
 
     const [currentIndex, setCurrentIndex] = useState(0);
