@@ -38,18 +38,21 @@ function Landing() {
 
     return (
         <div id='landing'>
+            <div className='landing-content'>
+                <div className='landing-hook'>
+                    designing websites for every step of your journey
+                </div>
+                <div className='landing-down'>
+                    <div>
+                        check out some of my projects
+                    </div>
+                    <img src={back} alt='down-arrow' className='bounce' />
+                </div>
+            </div>
             <div className='landing-background'>
                 <img src={images[currentIndex]} alt='background' />
             </div>
-            <div className='landing-hook'>
-                designing websites for every step of your journey
-            </div>
-            <div className='landing-down'>
-                <div>
-                check out some of my projects
-                </div>
-                <img src={back} alt='down-arrow' className='bounce' />
-            </div>
+            
         </div>
     )
 }

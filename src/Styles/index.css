@@ -19,6 +19,8 @@
   src: local('Ubuntu'), url(../assets/fonts/Ubuntu/Ubuntu-Bold.ttf) format('woff');
 }
 
+
+
 body {
   margin: 0;
   font-family: Ubuntu, "Lucida Console", "Courier New", monospace;
@@ -28,4 +30,17 @@ body {
   max-width: 2500px;
   min-width: 350px;
   background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#root {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  font-size: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }

@@ -4,6 +4,7 @@ import Menu from './Menu';
 import Landing from './Landing';
 import Projects from './Projects';
 import Footer from './Footer';
+import '../Styles/Home.css';
 
 function Home() {
     const [isScrolledTo, setIsScrolledTo] = useState(false);
@@ -27,7 +28,7 @@ function Home() {
         };
     }, []);
     return (
-        <div>
+        <div className='home-container'>
             <Menu scroll={ isScrolledTo } active='projects'/>
             <Landing />
             <div ref={targetDivRef}>

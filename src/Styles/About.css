@@ -104,6 +104,7 @@
 
 .mobile-alex img {
     height: 70%;
+    object-fit: contain;
 }
 
 .mobile-school {
@@ -132,5 +133,6 @@
 }
 
 .mobile-school img {
+    object-fit: contain;
     height: 70%;
 }
